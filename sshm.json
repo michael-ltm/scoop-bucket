@@ -6,14 +6,14 @@
             "bin": [
                 "sshm.exe"
             ],
-            "hash": "ac986911ae49fa6663a5321fc4b88172bf772452ce0270c496ec244b889b28c2"
+            "hash": "12d43dd58d1c8bf2c1e68b6066ece6502168e6ed689c72f117c70ceebc54eaf0"
         },
         "arm64": {
             "url": "https://github.com/michael-ltm/sshm/releases/download/v0.1.0/sshm_windows_arm64.zip",
             "bin": [
                 "sshm.exe"
             ],
-            "hash": "debd8e32e86499bb7e7a365394a21c3fcdbac6091dce20589d582581e746ff26"
+            "hash": "fc0df083436afc1b7b51c6d17cf4f901023c5b2c921b0f945c3bb1649852b7e3"
         }
     },
     "homepage": "https://github.com/michael-ltm/sshm",
