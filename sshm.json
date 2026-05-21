@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/michael-ltm/sshm/releases/download/v0.1.0/sshm_windows_amd64.zip",
+            "bin": [
+                "sshm.exe"
+            ],
+            "hash": "39620a05d0d154f40694424284cbffd0aef35475c28fb11cf3b07fa98568e69d"
+        },
+        "arm64": {
+            "url": "https://github.com/michael-ltm/sshm/releases/download/v0.1.0/sshm_windows_arm64.zip",
+            "bin": [
+                "sshm.exe"
+            ],
+            "hash": "c9b4e59c68be505157d0e63e41237053f30d5cf93c497049617521d9c7daecd8"
+        }
+    },
+    "homepage": "https://github.com/michael-ltm/sshm",
+    "license": "MIT",
+    "description": "A pretty, AI-friendly SSH connection manager"
+}
