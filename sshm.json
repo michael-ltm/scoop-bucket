@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/michael-ltm/sshm/releases/download/v0.3.0/sshm_windows_amd64.zip",
+            "url": "https://github.com/michael-ltm/sshm/releases/download/v0.4.0/sshm_windows_amd64.zip",
             "bin": [
                 "sshm.exe"
             ],
-            "hash": "802ed6473ff47e2e3c96e642fe22682af036d6b3f523608315ab74e9b680e78c"
+            "hash": "f8b849b48c280ad857344a383fdaf332ae88c6ce610e06f8f55dc89cd3926704"
         },
         "arm64": {
-            "url": "https://github.com/michael-ltm/sshm/releases/download/v0.3.0/sshm_windows_arm64.zip",
+            "url": "https://github.com/michael-ltm/sshm/releases/download/v0.4.0/sshm_windows_arm64.zip",
             "bin": [
                 "sshm.exe"
             ],
-            "hash": "cd8f0572ea8891c287603d5aa1a4f5cc73936b32b325a853cf08e12302c9f767"
+            "hash": "529d5ed37f99f2b344a5c08beee4efbe791e7e52222e2b901a2c9d476b3370c4"
         }
     },
     "homepage": "https://github.com/michael-ltm/sshm",
