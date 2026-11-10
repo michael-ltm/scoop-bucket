@@ -1,0 +1,22 @@
+{
+    "version": "0.8.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/michael-ltm/hopkit/releases/download/v0.8.0/hopkit_windows_amd64.zip",
+            "bin": [
+                "hopkit.exe"
+            ],
+            "hash": "dfdea4745ef9d6b9f10e690686b90b60d0dc68a8074194092fd458777f594889"
+        },
+        "arm64": {
+            "url": "https://github.com/michael-ltm/hopkit/releases/download/v0.8.0/hopkit_windows_arm64.zip",
+            "bin": [
+                "hopkit.exe"
+            ],
+            "hash": "6e2588731c20d0cc4c2d86489de4e4c9606b60d5c33b9022329711822c1d2240"
+        }
+    },
+    "homepage": "https://github.com/michael-ltm/hopkit",
+    "license": "Apache-2.0",
+    "description": "AI-friendly SSH manager with a built-in MCP server"
+}
